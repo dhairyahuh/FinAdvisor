@@ -20,7 +20,6 @@ The project introduces an AI assistant powered by IBM Watsonx.ai that provides d
 
 - IBM Watsonx.ai Studio
 - IBM Granite Foundation Model (LLM)
-- Vector Index for Retrieval-Augmented Generation
 - PDF documents from RBI/NPCI & other related sourses
 - NLP (Natural Language Processing)
 - IBM Cloud Object Storage
@@ -31,7 +30,6 @@ The project introduces an AI assistant powered by IBM Watsonx.ai that provides d
 
 - Watsonx.ai Studio
 - IBM Granite Model
-- Watsonx Vector Index
 - IBM Cloud Lite Account
 - IBM Cloud IAM
 - IBM Cloud Object Storage
@@ -64,7 +62,6 @@ The project introduces an AI assistant powered by IBM Watsonx.ai that provides d
 
 ## 🧪 Key Features
 
-- Document-based Q&A via Vector Index  
 - Powered by IBM Granite LLM for natural language understanding  
 - Built-in NLP support  
 - Responds gracefully to off-topic/irrelated questions  
