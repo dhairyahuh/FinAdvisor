@@ -1,22 +1,18 @@
-# 💬 Digital Financial Literacy AI Agent
+# 💬 Digital Financial Awareness AI Agent
 
-An AI-powered assistant designed to help users understand and navigate digital finance safely. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides multilingual support and trustworthy guidance on UPI, interest rates, stock market, personal finance, investing , loan safety, fraud prevention, online scams and more.
-
----
-
-![ai](ai.jpg)
+An AI-driven virtual assistant developed to empower users with secure and clear understanding of digital finance. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG) techniques, this assistant offers multilingual support and reliable insights on topics such as UPI safety, investment basics, interest rates, online frauds, financial planning, and more.
 
 ---
 
 ## 🧩 Problem Statement
 
-Many individuals, especially from rural or digitally underserved areas, lack financial literacy. They struggle with understanding UPI, online scams, interest rates, or personal budgeting. This can lead to fraud, poor money management, or digital exclusion.
+A large portion of the population—especially those in rural areas or with limited digital exposure—faces challenges in managing money online. They may not understand UPI, fall for digital scams, or struggle with saving and budgeting. This digital gap increases the risk of fraud and financial exclusion.
 
 ---
 
 ## 💡 Proposed Solution
 
-An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based answers about digital finance. With multilingual support and document retrieval (RAG), it ensures users receive grounded, easy-to-understand financial guidance.
+The project introduces an AI assistant powered by IBM Watsonx.ai that provides document-grounded, easy-to-understand financial guidance. By combining RAG and multilingual NLP, users can ask questions and receive answers drawn from trusted sources like RBI, NPCI, or uploaded PDFs.
 
 ---
 
@@ -44,8 +40,8 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ## 👥 End Users
 
-- General public seeking financial clarity  
-- Rural and semi-urban citizens  
+- Citizens looking for financial awareness
+- Digitally underserved communities  
 - Students and young professionals  
 - First-time UPI and digital banking users  
 - NGOs and government outreach programs  
@@ -87,25 +83,19 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ## 🖼️ Screenshots
 ### 🔹 Setting up..
-![Setup & preview image](setup.jpg)
+![Setup & preview image](setup.png)
 ### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
+![Agent Instructions](agent_instructions.png)
 ### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
+![quick_start_questions](quick_start_questions.png)
 ### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
+![Tool Used & Testing](tool_testing.png)
 ### 🔹 Deployment & Preview...
-![Deployment & Testing](deployed.jpg)
+![Deployment & Testing](deployed.png)
 ### 🔹 API References after Deployment...
-![api _references](links.jpg)
+![api _references](links.png)
 ### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
-
----
-
-## Recordings(watch to build on your own)
-▶️ [Building](https://youtu.be/oanWlnqpiP4)
-▶️ [Testing & Deployment](https://youtu.be/SfwFLWpIVdk)
+![resourses_list.jpg](resourses_list.png)
 
 ---
 
@@ -114,11 +104,10 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 1. Log in to IBM Cloud Lite: https://cloud.ibm.com
 2. Launch Watsonx.ai Studio
 3. Create a new AI Agent
-4. Upload financial PDFs to a Vector Index
-5. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
-6. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
-7. Test in the preview panel
-8. Deploy via web snippet, Streamlit, or custom web UI
+4. Choose Tools for web search (Google,Wikipedia,DuckDuckGo etc..)
+5. Configure agent instructions and topics (restricting AI from answering off-topic questions politely)
+6. Test in the preview panel
+7. Deploy via web snippet, Streamlit, or custom web UI
 
 ---
 
@@ -146,10 +135,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+-
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiva-pandala-243914229/)
-
----
-
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Shiva Pandala**
+> Created during the IBM SkillsBuild for Academia Internship 2025 by **Dhairya Jain**
